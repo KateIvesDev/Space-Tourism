@@ -9,17 +9,17 @@ import './App.css'
 
 function App() {
   
-  return (
-    <div >
-      <Navigation></Navigation>
-      <Routes>
-        <Route path='/' element={<Home />} />
-        <Route path='/destinations' element={<Destinations />} />
-        <Route path='/crew' element={<Crew />} />
-        <Route path='/tech' element={<Tech />} />
-      </Routes>
-    </div>
-  )
+	return (
+		<div >
+			<Navigation></Navigation>
+			<Routes>
+				<Route path='/' element={<Home />} />
+				<Route path='/destinations' element={<Destinations />} />
+				<Route path='/crew' element={<Crew />} />
+				<Route path='/tech' element={<Tech />} />
+			</Routes>
+		</div>
+	)
 }
 
 export default App
