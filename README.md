@@ -16,17 +16,16 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
     - [Continued development](#continued-development)
   - [Author](#author)
 
-
-
 ## Overview
 
 ### The challenge
 
 Users should be able to:
 
-- View the optimal layout for each of the website's pages depending on their device's screen size
-- See hover states for all interactive elements on the page
-- View each page and be able to toggle between the tabs to see new information
+[x] View the optimal layout for each of the website's pages depending on their device's screen size
+
+[x] See hover states for all interactive elements on the page
+[x] View each page and be able to toggle between the tabs to see new information
 
 ### Screenshot
 
@@ -47,17 +46,18 @@ Users should be able to:
 - Tailwind CSS
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
+- [Vite] (https://vitejs.dev/) - Build tool
+- [ReactRouter] (https://reactrouter.com/en/main)
 
 
 ### What I learned
 
+How to use Vite instead of CRA for a React app. Practiced using the useState React hook. Practice using React Router. How to customize/extend Tailwind.
 
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-
+Cleanup and organize Tailwind classes. Improve consistency of layout w/ Figma files.
 
 ## Author
 
