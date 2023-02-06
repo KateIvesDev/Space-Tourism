@@ -1,10 +1,10 @@
-# Frontend Mentor - Space tourism website solution
+# Space Tourism Mobile Responsive Website
 
 This is a solution to the [Space tourism website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3).  
 
 ## Table of contents
 
-- [Frontend Mentor - Space tourism website solution](#frontend-mentor---space-tourism-website-solution)
+- [Space Tourism Mobile Responsive Website](#space-tourism-mobile-responsive-website)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [(https://cerulean-tarsier-4703cc.netlify.app/)](https://cerulean-tarsier-4703cc.netlify.app/)
 
 ## My process
 
