@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Demo Space Site](https://github.com/KateIvesDev/Space-Tourism/blob/5dec727f77c438eb9684cc2bd1d0edd87187355a/space.gifg)
+![Demo Space Site](https://github.com/KateIvesDev/Space-Tourism/blob/5dec727f77c438eb9684cc2bd1d0edd87187355a/space.gif)
 
 
 ### Links
