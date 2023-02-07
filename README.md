@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Demo Space Site](https://github.com/KateIvesDev/Space-Tourism/blob/5dec727f77c438eb9684cc2bd1d0edd87187355a/space.gifg)
 
 
 ### Links
