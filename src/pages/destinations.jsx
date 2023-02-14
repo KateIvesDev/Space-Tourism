@@ -27,17 +27,7 @@ function Destination() {
 			{/* PAGE WRAPPER */} 
 			<div className='mt-36'>
 
-				<h1 className='
-          text-h5-sm
-          md:text-h5-md
-          lg:text-h5
-          text-center 
-          md:text-left
-          md:pl-32
-          md:my-4
-          uppercase 
-          tracking-head5 
-          '>
+				<h1 className='text-h5-sm md:text-h5-md lg:text-h5 text-center md:text-left md:pl-32 md:my-4 uppercase tracking-head5'>
 					<span className='opacity-25'>01   </span> 
             Pick your destination
 				</h1>
@@ -63,16 +53,7 @@ function Destination() {
 							</div>
 						</nav>
 						<div className='text-center'>
-							<h2 className='
-                  text-h2-sm
-                  md:text-h2-md
-                  lg:text-h2
-                  text-center
-                  lg:text-left
-                  font-bellefair 
-                  uppercase 
-                  tracking 
-                  my-5'>{destination.name}</h2>
+							<h2 className='text-h2-sm md:text-h2-md lg:text-h2 text-center lg:text-left font-bellefair uppercase tracking my-5'>{destination.name}</h2>
 							<p className='mx-10 text-center text-light-lavender lg:text-left lg:mx-1 text-bodytext font-barlow-r'>{destination.description}</p>
 
 							<div className='mx-auto lg:mx-1 my-5 h-px w-[327px] lg:w-[444px] bg-white/25'></div>
